@@ -1,5 +1,5 @@
 # Covid Helpline
-#### Helping spread information about COVID-19
+#### Helping to spread information about COVID-19 via SMS
 
 
 ### Delivering important Corona virus news via text. Free for everyone.
